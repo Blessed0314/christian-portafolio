@@ -5,13 +5,14 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro check && astro build",
+    "build": "astro check && astro build && node prepare-gh-pages.js",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
     "@astrojs/check": "0.4.1",
     "astro": "4.3.2",
+    "fs-extra": "^11.2.0",
     "hotkeypad": "0.1.0",
     "typescript": "5.3.3"
   }

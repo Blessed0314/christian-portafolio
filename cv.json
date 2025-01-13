@@ -1,68 +1,76 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Christian Daniel Villegas",
+    "label": "Full Stack Developer",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "christian.daniel@gmail.com",
+    "phone": "+57 3177760098",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Desarrollador Full Stack con experiencia en Spring Boot, Node.js y Django, y sólidos conocimientos en React, Angular, Kubernetes y Docker. Poseo conocimientos en integración de herramientas de AWS y en la gestión de pipelines CI/CD en Azure DevOps. Manejo bases de datos como MySQL, PostgreSQL y MongoDB. Trabajo bajo metodologías ágiles (SCRUM, Kanban) y destaco en resolución de problemas, rápida adaptación, comunicación efectiva y colaboración en equipos dinámicos.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "address": "Cra 17C # 39-96",
+      "postalCode": "760010",
+      "city": "Santiago de Cali",
+      "countryCode": "COL",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "Christian Daniel Villegas",
+        "url": "https://www.linkedin.com/in/christian-daniel-villegas-umaña-755097252"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "@BlessedDev",
+        "url": "https://x.com/Blessed0314Dev"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Blessed0314",
+        "url": "https://github.com/Blessed0314"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "name": "PRAGMA",
+      "position": "Desarrollador Backend",
+      "url": "https://www.pragma.co/es/carrera/cultura-pragma/",
+      "startDate": "2024-06-06",
+      "endDate": "2024-12-03",
+      "summary": "Participé en proyectos clave para clientes como Banco Itaú y el área administrativa de Pragma, destacándome por mi rápida adaptación y solución efectiva de problemas. Migré 11 microservicios de Java 8 a 17 en un mes y optimicé sistemas en ECS y EKS. Implementé mejoras en rendimiento de aplicaciones críticas, solucioné bugs complejos y gestioné despliegues en QA y producción. Usé tecnologías como Spring Boot, AWS, MongoDB y Google Sheets para optimizar procesos y mejorar la experiencia del usuario.",
       "highlights": [
-        "Started the company"
+        "Migré 11 microservicios de Java 8 a 17 en un mes.",
+        "Optimizé el rendimiento de un microservicio reduciendo tiempos de respuesta de 10 a 1 segundo.",
+        "Resolví un bug crítico que afectaba la puntuación en mapas de crecimiento.",
+        "Automaticé procesos de retiro mediante integración de App Scripts y Cognito.",
+        "Actualicé EKS y manifiestos en entornos de dev y prod para cinco proyectos.",
+        "Rediseñé una base de datos para incluir un filtro de seniority en cargos específicos.",
+        "Solucioné errores en la actualización concurrente de Google Sheets.",
+        "Aceleré despliegues en QA y DEV al corregir configuraciones en API Gateway.",
+        "Mejoré la experiencia de usuario al reducir incidentes de ingreso en una aplicación central.",
+        "Facilité la integración backend-frontend solucionando problemas en variables de entorno."
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "TELECENTER PANAMERICANA",
+      "position": "Servicio al cliente",
+      "url": "https://telecenter.com.co/",
+      "startDate": "2018-01-02",
+      "endDate": "2023-01-31",
+      "summary": "Me desempeñé en atención integral al cliente de DIRECTV, brindando soporte técnico y gestión de facturación en primera línea. Durante mi tiempo en el cargo, me destaqué por mi liderazgo y por aportar estrategias que contribuyeron a mejorar el NPS (Net Promoter Score), alcanzando el mejor resultado en 2021. También optimicé los procesos de atención al cliente, mejorando la eficiencia y adaptándome rápidamente a los cambios.",
       "highlights": [
-        "Started the company"
+        "Mejor NPS (Net Promoter Score) del 2021, aporte ideas para mejorar el indicador en lacompañía."
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "COOPRESERVIS",
+      "position": "Técnico de medios tecnológicos",
+      "startDate": "2012-04-19",
+      "endDate": "2017-11-30",
+      "summary": "fui responsable de la instalación y mantenimiento de sistemas de CCTV y alarmas en propiedades horizontales, así como de equipos informáticos y redes en la oficina central. Gracias a mis conocimientos en electrónica, pude ofrecer soluciones eficientes en la instalación de cámaras de seguridad y sistemas de control de acceso, mejorando la seguridad y operatividad de los servicios prestados.",
       "highlights": [
-        "Started the company"
       ]
     }
   ],
@@ -78,112 +86,122 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Universidad del Valle",
+    "url": "https://www.univalle.edu.co/",
+    "area": "Tecnólogo en desarrollo de Software",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "startDate": "2022-02-12",
+    "endDate": "2025-07-01",
+    "score": "4.76",
     "courses": [
-      "DB1101 - Basic SQL"
     ]
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "title": "Club de estrellas",
+    "date": "2019-02-17",
+    "awarder": "TELECENTER PANAMERICANA",
+    "summary": "9 estrellas por los meses de Febrero, Marzo, Mayo, Julio, Agosto, Septiembre, Octubre, Noviembre y Diciembre de 2018."
+  },{
+    "title": "NPS 2021",
+    "date": "2022-04-17",
+    "awarder": "TELECENTER PANAMERICANA",
+    "summary": "Mejor NPS Anual 2021."
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": "FUllstack Developer",
+    "date": "2023-07-15",
+    "issuer": "Henry",
+    "url": "https://certificates.soyhenry.com/new-cert?id=3ab26258175e0a94b9296da9372e88ed734800348ffad97e2f7d4123712cd816"
   }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "publications": [],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Junior",
       "keywords": [
         "Desarrollo Web", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Junior",
       "keywords": [
         "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Junior",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
-      "level": "Avanzado",
+      "level": "Junior",
       "keywords": [
         "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "Junior",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
-      "level": "Avanzado",
+      "level": "Junior",
       "keywords": [
         "Desarrollo Web", "Backend", "JavaScript", "Servidor"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
+      "level": "Junior",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Junior",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
+      "level": "Junior",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
+      "name": "Java",
+      "level": "Junior",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web", "Backend", "Springboot", "Servidor"
       ]
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Junior",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },{
+      "name": "Angular",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "TypeScript Framework", "UI"
+      ]
+    },{
+      "name": "Springboot",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Java framework", "Servidor", "Microservicios"
       ]
     }
   ],
@@ -194,7 +212,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Advanced B1"
     }
   ],
   "interests": [{
@@ -210,66 +228,36 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Clear Water",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Proyecto Integrador: Aplicación 3D con React Three Fiber para concienciar sobre problemas del agua.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Visitar sección /water-shortage",
+        "Formulario de Login"
       ],
-      "url": "https://mars.codes"
+      "url": "https://clean-water-kappa.vercel.app",
+      "github":"https://github.com/jean-heyller/CleanWater"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "name": "Notes App",
+      "isActive": false,
+      "description": "Aplicación de notas interactivas hecha con React y Springboot",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Reto técnico Ensolvers"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://github.com/ensolvers-github-challenges/DanielVillegasUmana-efe886",
+      "github":"https://github.com/ensolvers-github-challenges/DanielVillegasUmana-efe886"
     },
     {
-      "name": "Codember",
+      "name": "Rick and Morty",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "SPA de Rick and Morty desplegado en S3 bucket con CI/CD en Azure DevOps",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Integración con Sonar Cloud",
+        "Despliegue Green Blue"
       ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "http://rick-and-morty-ds2.s3-website-us-east-1.amazonaws.com/",
+      "github":"https://github.com/Blessed0314/RickAndMorty2.0"
     }
   ]
 }
