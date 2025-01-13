@@ -2,6 +2,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    base: '/christian-portfolio/',
+    base: '/christian-portafolio/docs/',
     outDir: './docs',
 });
